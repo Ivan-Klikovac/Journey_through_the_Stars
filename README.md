@@ -1,15 +1,15 @@
 # Journey through the Stars
  2D ASCII roguelike in C with ncurses
 
-vaguely space exploration themed, but I haven't gotten that far yet
+Space exploration themed, still early in development.
 
-based on the tutorial at https://dev.to/ignaoya/the-c-roguelike-tutorial-part-0-the-setup-1pfo but that tutorial is unfinished so I just picked up where it left off
+Based on the tutorial at https://dev.to/ignaoya/the-c-roguelike-tutorial-part-0-the-setup-1pfo. That tutorial is unfinished so I picked up where it left off.
 
 - primitive procedural generation
 - simple combat system (speed, armor, damage based)
 - logging system
 - inventory system
-- (sorta lazy) pathfinding system
+- pathfinding system
 - dynamic fov
-- saving system (in its infancy)
-- more stuff to be added
+- saving system (in progress)
+- more to be added
