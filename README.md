@@ -18,4 +18,4 @@ For Windows: clone the repo, install `pdcurses` and run `compile.bat` or `debug.
 
 For GNU/Linux: clone, install `ncurses` (likely present on your system), and run:
 
-`gcc *.c -Iinclude -lncurses -o jtts`
+`gcc *.c -Iinclude -lm -lncurses -o jtts`
